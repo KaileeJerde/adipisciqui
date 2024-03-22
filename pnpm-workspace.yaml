@@ -1,0 +1,5 @@
+packages:
+  - drizzle-orm
+  - drizzle-zod
+  - integration-tests
+  - examples/*
